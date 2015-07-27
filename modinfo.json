@@ -1,0 +1,13 @@
+{
+    "context": "client",
+    "identifier": "com.pa.domdom.naval_trails",
+    "display_name": "More Sploosh",
+    "description": "More pew, more color, and more distinguishable unit weapon effects! Tell at a glance what is shooting at you.",
+    "author": "dom314",
+    "forum": "https://forums.uberent.com/threads/rel-client-more-pew-pew.69229/",
+    "icon": "http://i.imgur.com/PQOpc3u.gif",
+    "version": "1.0.1",
+    "priority": 94,
+    "build": "83796",
+    "date": "2015/07/27"
+}
